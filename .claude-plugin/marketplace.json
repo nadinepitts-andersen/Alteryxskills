@@ -10,6 +10,11 @@
       "name": "alteryx",
       "source": "./alteryx",
       "description": "Find Alteryx assets, answer business questions with Alteryx Auto Insights, and build and run workflows for governed, repeatable business analysis."
+    },
+    {
+      "name": "alteryx-designer-help",
+      "source": "./alteryx-designer-help",
+      "description": "Answer how-to questions about Alteryx Designer and troubleshoot workflow errors with guidance and slash commands."
     }
   ]
 }

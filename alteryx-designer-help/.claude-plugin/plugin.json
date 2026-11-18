@@ -1,0 +1,18 @@
+{
+  "name": "alteryx-designer-help",
+  "displayName": "Alteryx Designer Help",
+  "description": "Answer how-to questions about Alteryx Designer, explain tools and settings, and troubleshoot workflow errors with guidance and slash commands.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alteryx"
+  },
+  "homepage": "https://github.com/alteryx/skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "alteryx",
+    "designer",
+    "help",
+    "troubleshooting",
+    "workflow"
+  ]
+}
